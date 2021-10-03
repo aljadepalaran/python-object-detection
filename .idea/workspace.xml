@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8d7d9fa8-39e6-4107-8953-3506af51431d" name="Changes" comment="new data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capture.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/resources/cabal_map.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facial_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/facial_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_manipulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_manipulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trackbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/trackbar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +50,11 @@
       <recent name="C:\Users\palar_ntkahw7\source\python-object-detection\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Al.Palaran\source\python-object-detection\resources" />
       <recent name="C:\Users\palar_ntkahw7\source\python-object-detection\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cookie_detect">
+  <component name="RunManager" selected="Python.trackbar">
     <configuration name="cookie_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-object-detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +97,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="image_manipulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-object-detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_manipulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="number_plate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-object-detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rt_aimlab_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="trackbar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-object-detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,28 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rt_aimlab_detect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="traffic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-object-detection" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/traffic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trackbar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.trackbar" />
+        <item itemvalue="Python.image_manipulation" />
+        <item itemvalue="Python.facial_detection" />
         <item itemvalue="Python.cookie_detect" />
         <item itemvalue="Python.number_plate" />
-        <item itemvalue="Python.traffic" />
-        <item itemvalue="Python.facial_detection" />
-        <item itemvalue="Python.rt_aimlab_detect" />
       </list>
     </recent_temporary>
   </component>

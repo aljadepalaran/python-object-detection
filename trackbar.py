@@ -43,7 +43,7 @@ def stackImages(imgArray,scale,lables=[]):
     return ver
 
 
-path = 'resources/redlambo.jpg'
+path = 'resources/cabal_map.PNG'
 cv2.namedWindow('TrackBars')
 cv2.resizeWindow('TrackBars',640,240)
 cv2.createTrackbar('huemin', 'TrackBars', 0, 179, empty)

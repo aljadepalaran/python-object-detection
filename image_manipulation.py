@@ -3,7 +3,7 @@ import numpy as np
 
 kernel = np.ones((5,5), 'uint8')
 
-image = cv2.imread('resources/lena.png')
+image = cv2.imread('resources/cabal_map.PNG')
 
 image_greyscale = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY) # convert to greyscale
 image_blur = cv2.GaussianBlur(image_greyscale, (7, 7), 0) # blurs the image
